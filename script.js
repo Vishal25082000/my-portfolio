@@ -1,6 +1,7 @@
 var tablinks=document.getElementsByClassName('tab-links');
 			var tabcontents=document.getElementsByClassName('tab-contents');
-			// var tablinks=document.getElementsByClassName('tab-links');
+                                        /*commented Line 
+                        var tablinks=document.getElementsByClassName('tab-links');*/
 
 			function opentab(tabname){
 				for(tablink of tablinks){
